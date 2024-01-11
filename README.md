@@ -2,6 +2,7 @@
 
 <!--
 **JJunY8/JJunY8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonYoung&show_icons=true&theme=tokyonight)
 
 Here are some ideas to get you started:
 
